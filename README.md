@@ -1,4 +1,7 @@
 ## Hi there 👋
+Estou estudando no Alura 
+Estou me desenvlvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização compartilhamento dos meus projetos
 
 <!--
 **MR3ATEC42/MR3ATEC42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
